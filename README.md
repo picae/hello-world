@@ -1,3 +1,3 @@
-# hello-world
+# goodbye-world
 
-The Github "Hello World" tutorial.
+The Github "Goodbye World" tutorial.
